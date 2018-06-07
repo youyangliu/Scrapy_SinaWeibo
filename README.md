@@ -1,2 +1,2 @@
 # Scrapy_SinaWeibo
-get the user_timeline
+get the user_timeline and comments
